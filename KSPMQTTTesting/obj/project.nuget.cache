@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oZFcex34rL3mT73k6Cxhg7cI9nnioROXyobUdaz/411udPfeElvKdXJO1M4XH/FNcHzGI8fCsK4e1lpt8VA7Mw==",
+  "dgSpecHash": "fWHACrg0PgIutuiZTtqZ3spV2HKUAe+UJHpeybhUjHqM1thM9AhDWrHR6RPaeaSfuD4RTE4jbR1ash6Oo6lENQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\chris\\Projects\\KSP-MQTT\\KSPMQTTTesting\\KSPMQTTTesting.csproj",
+  "projectFilePath": "C:\\Users\\chris\\Projects\\KSPMQTT\\KSPMQTTTesting\\KSPMQTTTesting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

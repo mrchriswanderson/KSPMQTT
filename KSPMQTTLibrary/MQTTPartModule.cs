@@ -5,10 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 using MqttLib;
 
-namespace KSPMQTTLbary;
+namespace KSPMQTTLibrary;
 
-class MQTTPartModule : PartModule {
-
+class MQTTPartModule : PartModule
+{
     public IMqtt client;
 
     public override void OnStart(PartModule.StartState state)

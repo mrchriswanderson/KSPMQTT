@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chris\\Projects\\KSP-MQTT\\KSPMQTTTesting\\KSPMQTTTesting.csproj": {}
+    "C:\\Users\\chris\\Projects\\KSPMQTT\\KSPMQTTTesting\\KSPMQTTTesting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chris\\Projects\\KSP-MQTT\\KSPMQTTTesting\\KSPMQTTTesting.csproj": {
+    "C:\\Users\\chris\\Projects\\KSPMQTT\\KSPMQTTTesting\\KSPMQTTTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chris\\Projects\\KSP-MQTT\\KSPMQTTTesting\\KSPMQTTTesting.csproj",
+        "projectUniqueName": "C:\\Users\\chris\\Projects\\KSPMQTT\\KSPMQTTTesting\\KSPMQTTTesting.csproj",
         "projectName": "KSPMQTTTesting",
-        "projectPath": "C:\\Users\\chris\\Projects\\KSP-MQTT\\KSPMQTTTesting\\KSPMQTTTesting.csproj",
+        "projectPath": "C:\\Users\\chris\\Projects\\KSPMQTT\\KSPMQTTTesting\\KSPMQTTTesting.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chris\\Projects\\KSP-MQTT\\KSPMQTTTesting\\obj\\",
+        "outputPath": "C:\\Users\\chris\\Projects\\KSPMQTT\\KSPMQTTTesting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",

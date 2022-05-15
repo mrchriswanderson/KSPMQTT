@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\KSPMQTTLbary\KSPMQTTLbary.csproj" />
+    <ProjectReference Include="..\KSPMQTTLibrary\KSPMQTTLibrary.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
