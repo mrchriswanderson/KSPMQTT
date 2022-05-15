@@ -1,4 +1,6 @@
 ﻿// https://github.com/EduardoJuliao/MQTTFirstLook/blob/main/MQTTFirstLook.Client/MQTTFirstLook.Client.csproj
+// https://github.com/dotnet/MQTTnet
+// https://github-wiki-see.page/m/chkr1011/MQTTnet/wiki/Client
 
 using System;
 using System.Threading.Tasks;
@@ -24,8 +26,9 @@ namespace KSPMQTTTesting.Client
                 .CreateLogger();
 
             MqttClientOptionsBuilder builder = new MqttClientOptionsBuilder()
-                                        .WithClientId("Dev.To")
-                                        .WithTcpServer("localhost", 707);
+                                        .WithClientId("KSPMQTT")
+                                        .WithCredentials("", "")
+                                        .WithTcpServer("", 1883);
 
             ManagedMqttClientOptions options = new ManagedMqttClientOptionsBuilder()
                                     .WithAutoReconnectDelay(TimeSpan.FromSeconds(60))
