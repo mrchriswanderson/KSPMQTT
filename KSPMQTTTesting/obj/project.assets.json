@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "KSPMQTTLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/KSPMQTTLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KSPMQTTLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "KSPMQTTLibrary/1.0.0": {
+      "type": "project",
+      "path": "../KSPMQTTLibrary/KSPMQTTLibrary.csproj",
+      "msbuildProject": "../KSPMQTTLibrary/KSPMQTTLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "KSPMQTTLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\chris\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\chris\\Projects\\KSPMQTT\\KSPMQTTLibrary\\KSPMQTTLibrary.csproj": {
+              "projectPath": "C:\\Users\\chris\\Projects\\KSPMQTT\\KSPMQTTLibrary\\KSPMQTTLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
