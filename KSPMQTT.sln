@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KSPMQTTLbary", "KSPMQTTLbary\KSPMQTTLbary.csproj", "{2D3ECBBC-3698-4B19-B5F7-AEE7047D4B4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KSPMQTTTesting", "KSPMQTTTesting\KSPMQTTTesting.csproj", "{D2B63C63-C968-445D-9291-D1D98B0B0A10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D3ECBBC-3698-4B19-B5F7-AEE7047D4B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D3ECBBC-3698-4B19-B5F7-AEE7047D4B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D3ECBBC-3698-4B19-B5F7-AEE7047D4B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D3ECBBC-3698-4B19-B5F7-AEE7047D4B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B63C63-C968-445D-9291-D1D98B0B0A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B63C63-C968-445D-9291-D1D98B0B0A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B63C63-C968-445D-9291-D1D98B0B0A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B63C63-C968-445D-9291-D1D98B0B0A10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
